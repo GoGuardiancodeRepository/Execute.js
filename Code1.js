@@ -1,6 +1,6 @@
 /// Execute.js
 window.addEventListener("keyup", event => {
-  if (event.ctrlKey && event.which === 190) {
+  if (event.ctrlKey && event.which === 192) {
     document.write('<!DOCTYPE html>');
 document.write('<html oncontextmenu="return false;">');
 document.write('	<head>');
