@@ -1,6 +1,6 @@
 /// Execute.js
 window.addEventListener("keyup", event => {
-  if (event.ctrlKey && event.which === 193) {
+  if (event.ctrlKey && event.which === 190) {
     var x = window.open("about:blank");
     x.document.write("<!DOCTYPE html>
 <html oncontextmenu="return false;">
